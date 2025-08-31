@@ -24,4 +24,4 @@ This project demonstrates concepts of modular programming, recursion, switch-cas
 [Trigonometric Example](images/Trigonometry.jpg)
 
 ### 4. Error Handling
-[Error Handling Example](images/ErrorHandling.JPG)
+[Error Handling Example](images/Error_Handling.JPG)
