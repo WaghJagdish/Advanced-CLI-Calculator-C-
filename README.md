@@ -12,3 +12,13 @@ This project demonstrates concepts of modular programming, recursion, switch-cas
 - **Language:** C  
 - **Libraries:** `<stdio.h>`, `<math.h>`, `<stdlib.h>`  
 - **Concepts:** Functions, Recursion, Switch-case, CLI applications  
+## Screenshots
+
+### 1. Basic Operation
+[Addition Example] (images/addition.jpg)
+
+### 2. Factorial Operation
+[Factorial Example](images/factorial.png)
+
+### 3. Trigonometric Operation
+[Trigonometric Example](images/trigonometry.png)
