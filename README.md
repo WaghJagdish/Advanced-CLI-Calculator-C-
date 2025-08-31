@@ -15,10 +15,13 @@ This project demonstrates concepts of modular programming, recursion, switch-cas
 ## Screenshots
 
 ### 1. Basic Operation
-[Addition Example] (images/addition.jpg)
+[Subtraction Example] (images/subtraction.JPG)
 
 ### 2. Factorial Operation
-[Factorial Example](images/factorial.png)
+[Factorial Example](images/Factorial.JPG)
 
 ### 3. Trigonometric Operation
-[Trigonometric Example](images/trigonometry.png)
+[Trigonometric Example](images/Trigonometry.jpg)
+
+### 4. Error Handling
+[Error Handling Example](images/Error Handling.JPG)
