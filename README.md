@@ -15,7 +15,7 @@ This project demonstrates concepts of modular programming, recursion, switch-cas
 ## Screenshots
 
 ### 1. Basic Operation
-[Subtraction Example] (images/subtraction.JPG)
+[Subtraction Example](images/subtraction.JPG)
 
 ### 2. Factorial Operation
 [Factorial Example](images/Factorial.JPG)
@@ -24,4 +24,4 @@ This project demonstrates concepts of modular programming, recursion, switch-cas
 [Trigonometric Example](images/Trigonometry.jpg)
 
 ### 4. Error Handling
-[Error Handling Example](images/Error Handling.JPG)
+[Error Handling Example](images/ErrorHandling.JPG)
